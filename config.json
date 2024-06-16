@@ -1,0 +1,11 @@
+{
+    "ip": "127.0.0.1",
+    "port": 3306,
+    "userName": "root",
+    "passwd": "123456",
+    "dbName": "testdb",
+    "minConnSize": 25,
+    "maxConnSize": 30,
+    "maxIdleTime": 5000,
+    "maxWaitTime": 5000
+}
